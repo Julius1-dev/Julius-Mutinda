@@ -51,7 +51,7 @@ I'm a passionate **full-stack developer** who loves building scalable web and mo
 ### 📈 GitHub Stats
 
 ![Julius' GitHub Stats](https://github-readme-stats.vercel.app/api?username=julius1-dev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliusmutinda&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliu1-dev&layout=compact&theme=tokyonight)
 
 ---
 
