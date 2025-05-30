@@ -53,6 +53,7 @@ I'm a passionate **full-stack developer** who loves building scalable web and mo
 ![Julius' GitHub Stats](https://github-readme-stats-nine-lemon-20.vercel.app/api?username=julius1-dev&show_icons=true&theme=tokyonight&count_private=true)
 
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julius1-dev&layout=compact&theme=tokyonight)
 
 ---
