@@ -44,8 +44,7 @@ I'm a passionate **full-stack developer** who loves building scalable web and mo
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/juliusmutinda)
-- 🌍 [My Website](https://juliusmutinda.dev) *(if available)*
-- 📬 Email: julius@example.com
+- 📬 Email: juliusmutinda461@gmail.com
 
 ---
 
